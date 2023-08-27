@@ -5,5 +5,5 @@ int main(void){
     int b=12;
     int c=a*b;
     printf("%d",c);
-    printf("hellloo");
+    printf("hellloo world how are you");
 }
